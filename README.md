@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer from Brazil 🇧🇷
 
 
 - 💼 Web Development Instructor at [Trybe](https://www.betrybe.com/)
-- 🌱 I’m currently learning NestJS & NextJS
+- 🌱 I’m currently learning [NestJS](https://nestjs.com/) & [NextJS](https://nextjs.org/)
 - 💬 Ask me about: Solving problems
 - 📫 How to reach me: fndcaique@gmail.com
 - 😄 Pronouns: He/Him Ele/Dele
