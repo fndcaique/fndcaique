@@ -63,9 +63,22 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🌟 Github Stats
+## 🌟 Stats
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=fndcaique&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="Fernando Soares" width="420"/> 
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fndcaique&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="Fernando Soares" height="165" /> -->
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=fndcaique&row=1&hide_border=true&theme=discord" alt="Fernando Soares" />
+</p>
+
+## 👥 Contact
+
+<p align="center">
+<a href="https://www.linkedin.com/in/fernando-caique-soares/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="mailto:fndcaique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
