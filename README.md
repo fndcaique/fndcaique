@@ -3,10 +3,10 @@
 I'm a passionate Full Stack Developer from Brazil 🇧🇷
 
 <p>
-💼 Web Development Instructor at [Trybe](https://www.betrybe.com/)
+💼 Web Development Instructor at <a href="https://www.betrybe.com">Trybe</a>
 </p>
 <p>
-🌱 I’m currently learning [NestJS](https://nestjs.com/) & [NextJS](https://nextjs.org/)
+🌱 I’m currently learning <a href="https://nestjs.com/">NestJS<a/> & <a href="https://nextjs.org/">NextJS</a>
 </p>
 <p>
 💬 Ask me about: Solving problems
