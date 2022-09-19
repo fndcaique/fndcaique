@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Developer from Brazil 🇧🇷
 
 <p>
-💼 Web Development Instructor at <a href="https://www.betrybe.com">Trybe</a>
+💼 Full Stack Web Development
 </p>
 <p>
 🌱 I’m currently learning <a href="https://nestjs.com/">NestJS<a/> & <a href="https://nextjs.org/">NextJS</a>
@@ -13,9 +13,6 @@ I'm a passionate Full Stack Developer from Brazil 🇧🇷
 </p>
 <p>
 📫 How to reach me: fndcaique@gmail.com
-</p>
-<p>
-😄 Pronouns: He/Him Ele/Dele
 </p>
 
 <!--
