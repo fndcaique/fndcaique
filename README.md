@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer from Brazil 🇧🇷
 💼 Full Stack Web Development
 </p>
 <p>
-🌱 I’m currently learning <a href="https://nestjs.com/">NestJS<a/> & <a href="https://nextjs.org/">NextJS</a>
+🌱 I’m currently learning English
 </p>
 <p>
 💬 Ask me about: Solving problems
