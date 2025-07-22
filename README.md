@@ -37,15 +37,12 @@ Here are some ideas to get you started:
 <p>
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Testing--Library-1b1b1d?style=for-the-badge&logo=testing-library&logoColor=f23e3e" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Angular-125ab5?style=for-the-badge&logo=angular&logoColor=dd0032" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/rxjs-fafafa?style=for-the-badge&logo=reactivex&logoColor=c2185b" style="margin-bottom: 4px;" height="30px">
 </p>
 <p>
 <!-- Backend -->
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/spring-6DA55F?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/junit-0057b7?style=for-the-badge&logo=junit5&logoColor=e6c200" style="margin-bottom: 4px;" height="30px">
@@ -54,8 +51,6 @@ Here are some ideas to get you started:
 <!-- Tools -->
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/postman-ff6c37.svg?style=for-the-badge&logo=postman&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/docker-003f8c.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
