@@ -1,6 +1,6 @@
 ## Hello my friend 👋 🤙
 
-I'm a passionate Full Stack Developer from Brazil 🇧🇷
+I'm a Full Stack Software Engineer from Brazil 🇧🇷
 
 <p>
 💼 Full Stack Web Development
