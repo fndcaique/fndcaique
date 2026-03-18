@@ -46,7 +46,7 @@ Building scalable systems, improving performance, and solving real-world problem
 
 ---
 
-## Selected Work
+## Work Highlights
 
 - Reduced execution time of a recommendation system from **270s to <10s** through database and query optimization  
 - Rebuilt legacy systems into modern Angular applications, improving performance and maintainability  
