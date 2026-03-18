@@ -18,7 +18,7 @@ Building scalable systems, improving performance, and solving real-world problem
 
 - Full Stack Engineer with experience building and improving **production systems used by real users**
 - Strong focus on **performance optimization, scalability, and clean architecture**
-- Experience with **end-to-end development**, from backend services to modern frontend applications
+- Experience with **end-to-end development**, from backend services to modern frontend applications, and system migrations
 - Currently improving English for international opportunities
 
 ---
@@ -51,4 +51,5 @@ Building scalable systems, improving performance, and solving real-world problem
 - Reduced execution time of a recommendation system from **270s to <10s** through database and query optimization  
 - Rebuilt legacy systems into modern Angular applications, improving performance and maintainability  
 - Developed features for a production job platform using Next.js, including search, applications, and alerts  
-- Migrated file storage to Amazon S3, improving scalability and reducing system load  
+- Migrated file storage to Amazon S3, improving scalability and reducing system load
+- Integrated payment systems (PIX, credit card, billing flows)
