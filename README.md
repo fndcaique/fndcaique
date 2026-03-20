@@ -22,7 +22,6 @@ Building scalable systems, improving performance, and solving real-world problem
 - Full Stack Engineer with experience building and improving **production systems used by real users**
 - Strong focus on **performance optimization, scalability, and clean architecture**
 - Experience with **end-to-end development**, from backend services to modern frontend applications, and system migrations
-- Currently improving English for international opportunities
 
 ---
 
