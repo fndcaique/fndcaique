@@ -7,6 +7,9 @@ Building scalable systems, improving performance, and solving real-world problem
   <a href="https://www.linkedin.com/in/fernando-caique-soares/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-fernando--caique--soares-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/fndcaique" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-fndcaique-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+  </a>
   <a href="mailto:fndcaique@gmail.com">
     <img src="https://img.shields.io/badge/Email-fndcaique%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
